@@ -1,0 +1,17 @@
+.nav{
+    padding: 1.25rem 1.5rem;
+    gap: 50px;
+    border-radius: 35px;
+    justify-content: space-between;
+    background-color: rgba(214,214,214, 0.4);
+    position: fixed;
+    top: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.nav-menu{
+    gap: 30px;
+}
+.nav-item{
+    gap: 5px;
+}

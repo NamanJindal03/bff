@@ -1,0 +1,15 @@
+{
+    "mainHeading": {
+        "head1": "Welcome To India’s First ",
+        "head2": "Creator’s Marketplace",
+        "head2Bg": "brush-stroke.svg"
+    },
+    "subHeading": "Create your first E-Store @ Zero Cost",
+    "para": "Empower your creativity with Createnary. Showcase, sell, and connect with a global audience effortlessly, turn your products into profits.",
+    "button": {
+        "content": "Get Started",
+        "link": ""
+    },
+    "heroImageBig": "hero-image-big.svg",
+    "heroImageSmall": "hero-image-small.svg" 
+}

@@ -1,0 +1,25 @@
+.hero-section{
+    background-color: var(--secondary-color);
+    padding: 1rem 4rem;
+    color: var(--primary-color);
+}
+
+.hero-content{
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hero-text{
+    flex-direction: column;
+    row-gap: 20px;
+    max-width: 400px;
+}
+
+@media only screen and (max-width: 767px) {
+    .hero-section{
+        padding: 7rem 0.5rem 0rem 0.5rem;
+    }
+    .hero-content{
+        flex-direction: column;
+    }
+}

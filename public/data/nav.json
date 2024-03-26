@@ -1,0 +1,24 @@
+{
+    "brand": "Experience",
+    "search":{
+        "placeholder": "Search Creators"
+    },
+    "menu": [
+        {
+            "name": "Cart",
+            "icon": "cart.svg"
+        },
+        {
+            "name": "About",
+            "icon": "about.svg"
+        },
+        {
+            "name": "Contact",
+            "icon": "contact.svg"
+        }
+    ],
+    "button": {
+        "content": "Login"
+    }
+
+}
